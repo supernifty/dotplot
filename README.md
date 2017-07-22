@@ -7,8 +7,7 @@ A simple dotplot implementation.
 
 Create a virtual environment first if desired:
 ```
-virtualenv venv # Python 2
-python3 -m venv venv # Python 3
+python3 -m venv venv
 source ./venv/bin/activate
 ```
 
